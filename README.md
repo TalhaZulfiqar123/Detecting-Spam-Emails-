@@ -105,7 +105,7 @@ cd Detecting_spam_email</code></pre>
   <h2>🌐 Connect With Me</h2>
   <ul>
     <li><a href="https://www.linkedin.com/in/talhazulfiqar" target="_blank">LinkedIn</a></li>
-    <li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
+    <li><a href="https://github.com/TalhaZulfiqar123" target="_blank">GitHub</a></li>
   </ul>
 
   <h2>📄 License</h2>
